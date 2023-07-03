@@ -1,1 +1,3 @@
-# docker-multi-platform-example
+# Docker multi-platform Example
+
+An example Docker multi-platform builds.
