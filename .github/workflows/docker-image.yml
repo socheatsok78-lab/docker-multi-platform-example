@@ -31,4 +31,3 @@ jobs:
       uses: docker/bake-action@v3
       with:
         workdir: ./${{ matrix.os }}
-        files: ./${{ matrix.os }}/docker-bake.hcl
